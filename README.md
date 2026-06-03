@@ -60,4 +60,4 @@ Following the PRO TIP from the project description, we implemented a two-step pi
 ### External Resources
 
 Models and datasets are not included in this repository due to size constraints.
-They are available at the following Google Drive link: [INSERT LINK HERE]
+They are available at the following Google Drive link: [[INSERT LINK HERE]](https://drive.google.com/drive/folders/1YOOVdyiCvO1BMM8uYJ_ubP_YZ2nRKKs3?usp=drive_link)
