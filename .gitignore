@@ -1,0 +1,11 @@
+logits_cache/
+trained_models/
+leftImg8bit/
+gtFine/
+Validation_Dataset/
+__MACOSX/
+__pycache__/
+*.bin
+*.ckpt
+*.npy
+*.zip

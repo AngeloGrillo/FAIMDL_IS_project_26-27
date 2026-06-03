@@ -1,0 +1,1440 @@
+Cityscapes - RoadAnomaly21
+2026-06-02 22:24:11.767477: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_cityscapes.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/0.png
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/1.png
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/2.png
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/3.png
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/4.png
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/5.png
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/6.png
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/7.png
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/8.png
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/9.png
+  saved 9.npy, shape=(19, 512, 1024)
+Cityscapes - RoadObsticle21
+2026-06-02 22:24:41.453029: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_cityscapes.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/0.webp
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/1.webp
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/10.webp
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/11.webp
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/12.webp
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/13.webp
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/14.webp
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/15.webp
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/16.webp
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/17.webp
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/18.webp
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/19.webp
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/2.webp
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/20.webp
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/21.webp
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/22.webp
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/23.webp
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/24.webp
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/25.webp
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/26.webp
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/27.webp
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/28.webp
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/29.webp
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/3.webp
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/4.webp
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/5.webp
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/6.webp
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/7.webp
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/8.webp
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/9.webp
+  saved 9.npy, shape=(19, 512, 1024)
+Cityscapes - FS_LostFound_full
+2026-06-02 22:25:42.887495: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_cityscapes.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/0.png
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/1.png
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/10.png
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/11.png
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/12.png
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/13.png
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/14.png
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/15.png
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/16.png
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/17.png
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/18.png
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/19.png
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/2.png
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/20.png
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/21.png
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/22.png
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/23.png
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/24.png
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/25.png
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/26.png
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/27.png
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/28.png
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/29.png
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/3.png
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/30.png
+  saved 30.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/31.png
+  saved 31.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/32.png
+  saved 32.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/33.png
+  saved 33.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/34.png
+  saved 34.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/35.png
+  saved 35.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/36.png
+  saved 36.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/37.png
+  saved 37.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/38.png
+  saved 38.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/39.png
+  saved 39.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/4.png
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/40.png
+  saved 40.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/41.png
+  saved 41.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/42.png
+  saved 42.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/43.png
+  saved 43.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/44.png
+  saved 44.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/45.png
+  saved 45.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/46.png
+  saved 46.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/47.png
+  saved 47.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/48.png
+  saved 48.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/49.png
+  saved 49.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/5.png
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/50.png
+  saved 50.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/51.png
+  saved 51.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/52.png
+  saved 52.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/53.png
+  saved 53.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/54.png
+  saved 54.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/55.png
+  saved 55.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/56.png
+  saved 56.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/57.png
+  saved 57.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/58.png
+  saved 58.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/59.png
+  saved 59.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/6.png
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/60.png
+  saved 60.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/61.png
+  saved 61.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/62.png
+  saved 62.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/63.png
+  saved 63.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/64.png
+  saved 64.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/65.png
+  saved 65.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/66.png
+  saved 66.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/67.png
+  saved 67.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/68.png
+  saved 68.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/69.png
+  saved 69.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/7.png
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/70.png
+  saved 70.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/71.png
+  saved 71.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/72.png
+  saved 72.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/73.png
+  saved 73.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/74.png
+  saved 74.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/75.png
+  saved 75.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/76.png
+  saved 76.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/77.png
+  saved 77.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/78.png
+  saved 78.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/79.png
+  saved 79.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/8.png
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/80.png
+  saved 80.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/81.png
+  saved 81.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/82.png
+  saved 82.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/83.png
+  saved 83.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/84.png
+  saved 84.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/85.png
+  saved 85.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/86.png
+  saved 86.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/87.png
+  saved 87.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/88.png
+  saved 88.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/89.png
+  saved 89.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/9.png
+  saved 9.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/90.png
+  saved 90.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/91.png
+  saved 91.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/92.png
+  saved 92.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/93.png
+  saved 93.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/94.png
+  saved 94.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/95.png
+  saved 95.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/96.png
+  saved 96.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/97.png
+  saved 97.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/98.png
+  saved 98.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/99.png
+  saved 99.npy, shape=(19, 512, 1024)
+Cityscapes - fs_static
+2026-06-02 22:28:39.354327: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_cityscapes.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/0.jpg
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/1.jpg
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/10.jpg
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/11.jpg
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/12.jpg
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/13.jpg
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/14.jpg
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/15.jpg
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/16.jpg
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/17.jpg
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/18.jpg
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/19.jpg
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/2.jpg
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/20.jpg
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/21.jpg
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/22.jpg
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/23.jpg
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/24.jpg
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/25.jpg
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/26.jpg
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/27.jpg
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/28.jpg
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/29.jpg
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/3.jpg
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/4.jpg
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/5.jpg
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/6.jpg
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/7.jpg
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/8.jpg
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/9.jpg
+  saved 9.npy, shape=(19, 512, 1024)
+Cityscapes - RoadAnomaly
+2026-06-02 22:29:37.489972: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_cityscapes.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/0.jpg
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/1.jpg
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/10.jpg
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/11.jpg
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/12.jpg
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/13.jpg
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/14.jpg
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/15.jpg
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/16.jpg
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/17.jpg
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/18.jpg
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/19.jpg
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/2.jpg
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/20.jpg
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/21.jpg
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/22.jpg
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/23.jpg
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/24.jpg
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/25.jpg
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/26.jpg
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/27.jpg
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/28.jpg
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/29.jpg
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/3.jpg
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/30.jpg
+  saved 30.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/31.jpg
+  saved 31.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/32.jpg
+  saved 32.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/33.jpg
+  saved 33.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/34.jpg
+  saved 34.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/35.jpg
+  saved 35.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/36.jpg
+  saved 36.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/37.jpg
+  saved 37.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/38.jpg
+  saved 38.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/39.jpg
+  saved 39.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/4.jpg
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/40.jpg
+  saved 40.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/41.jpg
+  saved 41.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/42.jpg
+  saved 42.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/43.jpg
+  saved 43.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/44.jpg
+  saved 44.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/45.jpg
+  saved 45.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/46.jpg
+  saved 46.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/47.jpg
+  saved 47.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/48.jpg
+  saved 48.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/49.jpg
+  saved 49.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/5.jpg
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/50.jpg
+  saved 50.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/51.jpg
+  saved 51.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/52.jpg
+  saved 52.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/53.jpg
+  saved 53.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/54.jpg
+  saved 54.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/55.jpg
+  saved 55.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/56.jpg
+  saved 56.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/57.jpg
+  saved 57.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/58.jpg
+  saved 58.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/59.jpg
+  saved 59.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/6.jpg
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/7.jpg
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/8.jpg
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/9.jpg
+  saved 9.npy, shape=(19, 512, 1024)
+Finetuned - RoadAnomaly21
+2026-06-02 22:31:07.678783: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_finetuned.ckpt
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/0.png
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/1.png
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/2.png
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/3.png
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/4.png
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/5.png
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/6.png
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/7.png
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/8.png
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/9.png
+  saved 9.npy, shape=(19, 512, 1024)
+Finetuned - RoadObsticle21
+2026-06-02 22:31:51.405815: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_finetuned.ckpt
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/0.webp
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/1.webp
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/10.webp
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/11.webp
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/12.webp
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/13.webp
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/14.webp
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/15.webp
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/16.webp
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/17.webp
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/18.webp
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/19.webp
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/2.webp
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/20.webp
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/21.webp
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/22.webp
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/23.webp
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/24.webp
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/25.webp
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/26.webp
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/27.webp
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/28.webp
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/29.webp
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/3.webp
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/4.webp
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/5.webp
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/6.webp
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/7.webp
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/8.webp
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/9.webp
+  saved 9.npy, shape=(19, 512, 1024)
+Finetuned - FS_LostFound_full
+2026-06-02 22:32:33.814005: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_finetuned.ckpt
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/0.png
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/1.png
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/10.png
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/11.png
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/12.png
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/13.png
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/14.png
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/15.png
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/16.png
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/17.png
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/18.png
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/19.png
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/2.png
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/20.png
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/21.png
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/22.png
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/23.png
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/24.png
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/25.png
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/26.png
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/27.png
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/28.png
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/29.png
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/3.png
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/30.png
+  saved 30.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/31.png
+  saved 31.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/32.png
+  saved 32.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/33.png
+  saved 33.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/34.png
+  saved 34.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/35.png
+  saved 35.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/36.png
+  saved 36.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/37.png
+  saved 37.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/38.png
+  saved 38.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/39.png
+  saved 39.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/4.png
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/40.png
+  saved 40.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/41.png
+  saved 41.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/42.png
+  saved 42.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/43.png
+  saved 43.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/44.png
+  saved 44.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/45.png
+  saved 45.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/46.png
+  saved 46.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/47.png
+  saved 47.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/48.png
+  saved 48.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/49.png
+  saved 49.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/5.png
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/50.png
+  saved 50.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/51.png
+  saved 51.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/52.png
+  saved 52.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/53.png
+  saved 53.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/54.png
+  saved 54.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/55.png
+  saved 55.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/56.png
+  saved 56.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/57.png
+  saved 57.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/58.png
+  saved 58.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/59.png
+  saved 59.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/6.png
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/60.png
+  saved 60.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/61.png
+  saved 61.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/62.png
+  saved 62.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/63.png
+  saved 63.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/64.png
+  saved 64.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/65.png
+  saved 65.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/66.png
+  saved 66.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/67.png
+  saved 67.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/68.png
+  saved 68.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/69.png
+  saved 69.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/7.png
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/70.png
+  saved 70.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/71.png
+  saved 71.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/72.png
+  saved 72.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/73.png
+  saved 73.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/74.png
+  saved 74.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/75.png
+  saved 75.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/76.png
+  saved 76.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/77.png
+  saved 77.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/78.png
+  saved 78.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/79.png
+  saved 79.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/8.png
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/80.png
+  saved 80.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/81.png
+  saved 81.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/82.png
+  saved 82.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/83.png
+  saved 83.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/84.png
+  saved 84.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/85.png
+  saved 85.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/86.png
+  saved 86.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/87.png
+  saved 87.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/88.png
+  saved 88.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/89.png
+  saved 89.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/9.png
+  saved 9.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/90.png
+  saved 90.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/91.png
+  saved 91.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/92.png
+  saved 92.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/93.png
+  saved 93.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/94.png
+  saved 94.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/95.png
+  saved 95.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/96.png
+  saved 96.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/97.png
+  saved 97.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/98.png
+  saved 98.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/99.png
+  saved 99.npy, shape=(19, 512, 1024)
+Finetuned - fs_static
+2026-06-02 22:33:55.966476: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_finetuned.ckpt
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/0.jpg
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/1.jpg
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/10.jpg
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/11.jpg
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/12.jpg
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/13.jpg
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/14.jpg
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/15.jpg
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/16.jpg
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/17.jpg
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/18.jpg
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/19.jpg
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/2.jpg
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/20.jpg
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/21.jpg
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/22.jpg
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/23.jpg
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/24.jpg
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/25.jpg
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/26.jpg
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/27.jpg
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/28.jpg
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/29.jpg
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/3.jpg
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/4.jpg
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/5.jpg
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/6.jpg
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/7.jpg
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/8.jpg
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/9.jpg
+  saved 9.npy, shape=(19, 512, 1024)
+Finetuned - RoadAnomaly
+2026-06-02 22:34:32.929393: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_finetuned.ckpt
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/0.jpg
+  saved 0.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/1.jpg
+  saved 1.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/10.jpg
+  saved 10.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/11.jpg
+  saved 11.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/12.jpg
+  saved 12.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/13.jpg
+  saved 13.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/14.jpg
+  saved 14.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/15.jpg
+  saved 15.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/16.jpg
+  saved 16.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/17.jpg
+  saved 17.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/18.jpg
+  saved 18.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/19.jpg
+  saved 19.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/2.jpg
+  saved 2.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/20.jpg
+  saved 20.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/21.jpg
+  saved 21.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/22.jpg
+  saved 22.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/23.jpg
+  saved 23.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/24.jpg
+  saved 24.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/25.jpg
+  saved 25.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/26.jpg
+  saved 26.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/27.jpg
+  saved 27.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/28.jpg
+  saved 28.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/29.jpg
+  saved 29.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/3.jpg
+  saved 3.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/30.jpg
+  saved 30.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/31.jpg
+  saved 31.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/32.jpg
+  saved 32.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/33.jpg
+  saved 33.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/34.jpg
+  saved 34.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/35.jpg
+  saved 35.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/36.jpg
+  saved 36.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/37.jpg
+  saved 37.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/38.jpg
+  saved 38.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/39.jpg
+  saved 39.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/4.jpg
+  saved 4.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/40.jpg
+  saved 40.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/41.jpg
+  saved 41.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/42.jpg
+  saved 42.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/43.jpg
+  saved 43.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/44.jpg
+  saved 44.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/45.jpg
+  saved 45.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/46.jpg
+  saved 46.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/47.jpg
+  saved 47.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/48.jpg
+  saved 48.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/49.jpg
+  saved 49.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/5.jpg
+  saved 5.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/50.jpg
+  saved 50.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/51.jpg
+  saved 51.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/52.jpg
+  saved 52.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/53.jpg
+  saved 53.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/54.jpg
+  saved 54.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/55.jpg
+  saved 55.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/56.jpg
+  saved 56.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/57.jpg
+  saved 57.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/58.jpg
+  saved 58.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/59.jpg
+  saved 59.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/6.jpg
+  saved 6.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/7.jpg
+  saved 7.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/8.jpg
+  saved 8.npy, shape=(19, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/9.jpg
+  saved 9.npy, shape=(19, 512, 1024)
+COCO - RoadAnomaly21
+2026-06-02 22:35:25.749835: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_coco.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/0.png
+  saved 0.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/1.png
+  saved 1.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/2.png
+  saved 2.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/3.png
+  saved 3.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/4.png
+  saved 4.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/5.png
+  saved 5.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/6.png
+  saved 6.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/7.png
+  saved 7.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/8.png
+  saved 8.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly21/images/9.png
+  saved 9.npy, shape=(133, 512, 1024)
+COCO - RoadObsticle21
+2026-06-02 22:36:24.444217: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_coco.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/0.webp
+  saved 0.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/1.webp
+  saved 1.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/10.webp
+  saved 10.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/11.webp
+  saved 11.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/12.webp
+  saved 12.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/13.webp
+  saved 13.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/14.webp
+  saved 14.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/15.webp
+  saved 15.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/16.webp
+  saved 16.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/17.webp
+  saved 17.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/18.webp
+  saved 18.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/19.webp
+  saved 19.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/2.webp
+  saved 2.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/20.webp
+  saved 20.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/21.webp
+  saved 21.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/22.webp
+  saved 22.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/23.webp
+  saved 23.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/24.webp
+  saved 24.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/25.webp
+  saved 25.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/26.webp
+  saved 26.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/27.webp
+  saved 27.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/28.webp
+  saved 28.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/29.webp
+  saved 29.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/3.webp
+  saved 3.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/4.webp
+  saved 4.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/5.webp
+  saved 5.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/6.webp
+  saved 6.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/7.webp
+  saved 7.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/8.webp
+  saved 8.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadObsticle21/images/9.webp
+  saved 9.npy, shape=(133, 512, 1024)
+COCO - FS_LostFound_full
+2026-06-02 22:38:37.391751: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_coco.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/0.png
+  saved 0.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/1.png
+  saved 1.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/10.png
+  saved 10.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/11.png
+  saved 11.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/12.png
+  saved 12.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/13.png
+  saved 13.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/14.png
+  saved 14.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/15.png
+  saved 15.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/16.png
+  saved 16.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/17.png
+  saved 17.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/18.png
+  saved 18.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/19.png
+  saved 19.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/2.png
+  saved 2.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/20.png
+  saved 20.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/21.png
+  saved 21.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/22.png
+  saved 22.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/23.png
+  saved 23.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/24.png
+  saved 24.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/25.png
+  saved 25.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/26.png
+  saved 26.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/27.png
+  saved 27.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/28.png
+  saved 28.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/29.png
+  saved 29.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/3.png
+  saved 3.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/30.png
+  saved 30.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/31.png
+  saved 31.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/32.png
+  saved 32.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/33.png
+  saved 33.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/34.png
+  saved 34.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/35.png
+  saved 35.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/36.png
+  saved 36.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/37.png
+  saved 37.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/38.png
+  saved 38.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/39.png
+  saved 39.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/4.png
+  saved 4.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/40.png
+  saved 40.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/41.png
+  saved 41.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/42.png
+  saved 42.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/43.png
+  saved 43.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/44.png
+  saved 44.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/45.png
+  saved 45.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/46.png
+  saved 46.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/47.png
+  saved 47.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/48.png
+  saved 48.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/49.png
+  saved 49.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/5.png
+  saved 5.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/50.png
+  saved 50.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/51.png
+  saved 51.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/52.png
+  saved 52.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/53.png
+  saved 53.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/54.png
+  saved 54.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/55.png
+  saved 55.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/56.png
+  saved 56.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/57.png
+  saved 57.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/58.png
+  saved 58.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/59.png
+  saved 59.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/6.png
+  saved 6.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/60.png
+  saved 60.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/61.png
+  saved 61.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/62.png
+  saved 62.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/63.png
+  saved 63.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/64.png
+  saved 64.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/65.png
+  saved 65.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/66.png
+  saved 66.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/67.png
+  saved 67.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/68.png
+  saved 68.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/69.png
+  saved 69.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/7.png
+  saved 7.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/70.png
+  saved 70.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/71.png
+  saved 71.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/72.png
+  saved 72.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/73.png
+  saved 73.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/74.png
+  saved 74.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/75.png
+  saved 75.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/76.png
+  saved 76.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/77.png
+  saved 77.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/78.png
+  saved 78.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/79.png
+  saved 79.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/8.png
+  saved 8.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/80.png
+  saved 80.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/81.png
+  saved 81.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/82.png
+  saved 82.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/83.png
+  saved 83.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/84.png
+  saved 84.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/85.png
+  saved 85.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/86.png
+  saved 86.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/87.png
+  saved 87.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/88.png
+  saved 88.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/89.png
+  saved 89.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/9.png
+  saved 9.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/90.png
+  saved 90.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/91.png
+  saved 91.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/92.png
+  saved 92.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/93.png
+  saved 93.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/94.png
+  saved 94.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/95.png
+  saved 95.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/96.png
+  saved 96.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/97.png
+  saved 97.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/98.png
+  saved 98.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/FS_LostFound_full/images/99.png
+  saved 99.npy, shape=(133, 512, 1024)
+COCO - fs_static
+2026-06-02 22:44:45.389902: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_coco.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/0.jpg
+  saved 0.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/1.jpg
+  saved 1.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/10.jpg
+  saved 10.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/11.jpg
+  saved 11.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/12.jpg
+  saved 12.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/13.jpg
+  saved 13.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/14.jpg
+  saved 14.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/15.jpg
+  saved 15.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/16.jpg
+  saved 16.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/17.jpg
+  saved 17.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/18.jpg
+  saved 18.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/19.jpg
+  saved 19.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/2.jpg
+  saved 2.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/20.jpg
+  saved 20.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/21.jpg
+  saved 21.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/22.jpg
+  saved 22.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/23.jpg
+  saved 23.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/24.jpg
+  saved 24.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/25.jpg
+  saved 25.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/26.jpg
+  saved 26.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/27.jpg
+  saved 27.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/28.jpg
+  saved 28.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/29.jpg
+  saved 29.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/3.jpg
+  saved 3.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/4.jpg
+  saved 4.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/5.jpg
+  saved 5.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/6.jpg
+  saved 6.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/7.jpg
+  saved 7.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/8.jpg
+  saved 8.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/fs_static/images/9.jpg
+  saved 9.npy, shape=(133, 512, 1024)
+COCO - RoadAnomaly
+2026-06-02 22:47:05.298419: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model loaded from /content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/trained_models/eomt_coco.bin
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/0.jpg
+  saved 0.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/1.jpg
+  saved 1.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/10.jpg
+  saved 10.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/11.jpg
+  saved 11.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/12.jpg
+  saved 12.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/13.jpg
+  saved 13.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/14.jpg
+  saved 14.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/15.jpg
+  saved 15.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/16.jpg
+  saved 16.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/17.jpg
+  saved 17.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/18.jpg
+  saved 18.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/19.jpg
+  saved 19.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/2.jpg
+  saved 2.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/20.jpg
+  saved 20.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/21.jpg
+  saved 21.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/22.jpg
+  saved 22.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/23.jpg
+  saved 23.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/24.jpg
+  saved 24.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/25.jpg
+  saved 25.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/26.jpg
+  saved 26.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/27.jpg
+  saved 27.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/28.jpg
+  saved 28.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/29.jpg
+  saved 29.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/3.jpg
+  saved 3.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/30.jpg
+  saved 30.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/31.jpg
+  saved 31.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/32.jpg
+  saved 32.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/33.jpg
+  saved 33.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/34.jpg
+  saved 34.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/35.jpg
+  saved 35.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/36.jpg
+  saved 36.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/37.jpg
+  saved 37.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/38.jpg
+  saved 38.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/39.jpg
+  saved 39.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/4.jpg
+  saved 4.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/40.jpg
+  saved 40.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/41.jpg
+  saved 41.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/42.jpg
+  saved 42.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/43.jpg
+  saved 43.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/44.jpg
+  saved 44.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/45.jpg
+  saved 45.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/46.jpg
+  saved 46.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/47.jpg
+  saved 47.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/48.jpg
+  saved 48.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/49.jpg
+  saved 49.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/5.jpg
+  saved 5.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/50.jpg
+  saved 50.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/51.jpg
+  saved 51.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/52.jpg
+  saved 52.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/53.jpg
+  saved 53.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/54.jpg
+  saved 54.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/55.jpg
+  saved 55.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/56.jpg
+  saved 56.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/57.jpg
+  saved 57.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/58.jpg
+  saved 58.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/59.jpg
+  saved 59.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/6.jpg
+  saved 6.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/7.jpg
+  saved 7.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/8.jpg
+  saved 8.npy, shape=(133, 512, 1024)
+/content/drive/MyDrive/MaskArchitectureAnomaly_CourseProject-main/MaskArchitectureAnomaly_CourseProject-main/Validation_Dataset/RoadAnomaly/images/9.jpg
+  saved 9.npy, shape=(133, 512, 1024)
